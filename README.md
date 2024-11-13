@@ -9,3 +9,6 @@ Follow these steps to view the CV page in your browser:
 - **Clone**: If you are using Git, you can clone the repository with the following command:
   ```bash
   git clone https://github.com/Shamir14feb/Single-Page-CV
+
+### PROJECT PAGE URL
+> https://roadmap.sh/projects/single-page-cv
